@@ -12,10 +12,10 @@ At the heart of the Fusion Techsal's Innovation Launchpad is the belief that han
 
  Key Areas of Focus
 
-  - Robotics**: Explore the forefront of robotic innovation with our multi-versioned projects:
-  - V.One: Social Robot** - Designed to interact with humans in social settings, enhancing communication, education, and companionship.
-  - V.Two: Service Robot** - Focuses on automating tasks in various service industries, improving efficiency and reliability.
-  - V.Three: Humanoid** - The pinnacle of robotics, these human-like robots push the boundaries of what's possible in AI and mechanics.
+  - Robotics: Explore the forefront of robotic innovation with our multi-versioned projects:
+  - V.One: Social Robot - Designed to interact with humans in social settings, enhancing communication, education, and companionship.
+  - V.Two: Service Robot - Focuses on automating tasks in various service industries, improving efficiency and reliability.
+  - V.Three: Humanoid - The pinnacle of robotics, these human-like robots push the boundaries of what's possible in AI and mechanics.
   
 - Finance 💰📊: Dive into the world of FinTech with machine learning applications that are reshaping financial services, from predictive analytics to automated trading systems.
 
@@ -40,7 +40,7 @@ At the heart of the Fusion Techsal's Innovation Launchpad is the belief that han
 - CI/CD & DevOps: Learn and implement best practices in continuous integration, continuous deployment, and DevOps for efficient software development. 🔄⚙️
 - Cybersecurity: Contribute to the safety and security of digital solutions, safeguarding information and systems from cyber threats. 🛡️🔒
 - Psychology in Tech: Apply psychological principles to design user-centric technologies, enhancing usability and engagement. 🧠💡
-- Mechatronics & Electronics**: Engage in the fusion of mechanical engineering, electronics, and computer science to design and create smarter, more versatile systems and devices. ⚙️🔌
+- Mechatronics & Electronics: Engage in the fusion of mechanical engineering, electronics, and computer science to design and create smarter, more versatile systems and devices. ⚙️🔌
 - Nanomaterials in Engineering: Delve into the application of nanomaterials in engineering, enhancing the performance and capabilities of products like humanoid robots and drones through advanced materials science. Innovate in creating lighter, stronger, and more efficient components. 🤖🚁🔬
 - Cross-Disciplinary Learning: Benefit from a holistic approach by integrating knowledge from various fields, fostering innovation and comprehensive problem-solving skills. 🤹‍♂️📘
 - - Industrial Solutions: Get hands-on with projects that replicate and innovate on current industrial solutions, bridging the gap between academia and industry. 🏭🌍
