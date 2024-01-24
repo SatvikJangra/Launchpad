@@ -43,7 +43,7 @@ At the heart of the Fusion Techsal's Innovation Launchpad is the belief that han
 - Mechatronics & Electronics: Engage in the fusion of mechanical engineering, electronics, and computer science to design and create smarter, more versatile systems and devices. ⚙️🔌
 - Nanomaterials in Engineering: Delve into the application of nanomaterials in engineering, enhancing the performance and capabilities of products like humanoid robots and drones through advanced materials science. Innovate in creating lighter, stronger, and more efficient components. 🤖🚁🔬
 - Cross-Disciplinary Learning: Benefit from a holistic approach by integrating knowledge from various fields, fostering innovation and comprehensive problem-solving skills. 🤹‍♂️📘
-- - Industrial Solutions: Get hands-on with projects that replicate and innovate on current industrial solutions, bridging the gap between academia and industry. 🏭🌍
+- Industrial Solutions: Get hands-on with projects that replicate and innovate on current industrial solutions, bridging the gap between academia and industry. 🏭🌍
 - Community Collaboration: Join a diverse community of innovators, sharing knowledge and collaborating on projects that push the boundaries of what's possible. 👥🤝
 
 
