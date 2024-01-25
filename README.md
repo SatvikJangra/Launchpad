@@ -13,8 +13,11 @@ At the heart of the Fusion Techsal's Innovation Launchpad is the belief that han
  Key Areas of Focus
 
 - Robotics: Explore the forefront of robotic innovation with our multi-versioned projects 🤖:
+
 ⚫️ V.One: Social Robot 🌐 - Designed to interact with humans in social settings, enhancing communication 🗣️, education 📚, and companionship 👫.
+
 ⚫️ V.Two: Service Robot 🛠️ - Focuses on automating tasks in various service industries, improving efficiency ⏱️ and reliability 🔒.
+
 ⚫️ V.Three: Humanoid 🚶‍♂️ - The pinnacle of robotics, these human-like robots push the boundaries of what's possible in AI 🧠 and mechanics 🔧.
   
 - Finance 💰📊: Dive into the world of FinTech with machine learning applications that are reshaping financial services, from predictive analytics to automated trading systems.
