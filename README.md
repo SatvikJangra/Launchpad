@@ -14,7 +14,7 @@ At the heart of the Fusion Techsal's Innovation Launchpad is the belief that han
 
 - Robotics: Explore the forefront of robotic innovation with our multi-versioned projects 🤖:
 
-🤖   V.One: Social Robot 🌐 - Designed to interact with humans in social settings, enhancing communication 🗣️, education 📚, and companionship 👫.
+🤖   [V.One](https://github.com/Fusion-Techsal/v.One): Social Robot 🌐 - Designed to interact with humans in social settings, enhancing communication 🗣️, education 📚, and companionship 👫.
 
 🤖🦾  V.Two: Service Robot 🛠️ - Focuses on automating tasks in various service industries, improving efficiency ⏱️ and reliability 🔒.
 
